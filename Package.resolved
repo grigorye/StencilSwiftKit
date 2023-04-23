@@ -48,11 +48,11 @@
       },
       {
         "package": "Stencil",
-        "repositoryURL": "https://github.com/stencilproject/Stencil.git",
+        "repositoryURL": "https://github.com/grigorye/Stencil.git",
         "state": {
-          "branch": null,
-          "revision": "8989f8a18998bd67b1727c2c0798b7c0436aa481",
-          "version": "0.15.0"
+          "branch": "linux-experiment",
+          "revision": "4042250dba934fc046fcdd39af48c2fe3e70e558",
+          "version": null
         }
       }
     ]
